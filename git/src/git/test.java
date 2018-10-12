@@ -5,5 +5,6 @@ public class test {
 		System.out.println("sanmao is a dog for longmin");
 		System.out.println("zhuangun");
 		System.out.println("zhuangun");
+	    System.out.println("sanmao is a dog for longmin");
 	}
 }
